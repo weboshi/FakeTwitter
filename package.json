@@ -42,7 +42,7 @@
     "html-webpack-plugin": "2.29.0",
     "jest": "20.0.4",
     "jsonwebtoken": "^8.3.0",
-    "luxon": "^1.11.4",
+    "luxon": "^1.28.1",
     "morgan": "^1.9.0",
     "mysql2": "^1.5.1",
     "node-sass": "^4.9.3",
